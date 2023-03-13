@@ -1,5 +1,3 @@
-# request3A-ash 
-
 https://github.com/limjuhee0803/request3A-ljh
 
 [https://github.com/dksthgml]
